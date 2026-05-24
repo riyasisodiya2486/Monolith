@@ -1,0 +1,6 @@
+{
+  "name": "MONOLITH",
+  "description": "An immersive, interactive, scroll-driven landing page for MONOLITH Architects, highlighting raw elements and coastal minimalism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
